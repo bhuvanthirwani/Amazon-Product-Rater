@@ -10,7 +10,7 @@ tqdm
 choice
 nltk
 pickle5
-tensorflow
+tensorflow==1.5.0
 keras
 urllib3
 requests
