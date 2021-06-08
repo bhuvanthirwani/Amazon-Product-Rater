@@ -1,0 +1,16 @@
+flask
+pandas
+fake_useragent
+regex
+requests
+beautifulsoup4
+pytime
+python-math
+tqdm
+choice
+nltk
+pickle5
+tensorflow
+keras
+urllib3
+requests

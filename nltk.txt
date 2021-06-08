@@ -1,0 +1,4 @@
+punkt
+stopwords
+SnowballStemmer
+word_tokenize
